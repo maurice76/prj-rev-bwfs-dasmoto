@@ -1,0 +1,45 @@
+p, h1, h2, h3 {
+
+  font-family: Helvetica
+}
+
+.dasmoto {
+
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+
+#brushes h2 {
+
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  text-align:left;
+  background-color:mediumspringgreen;
+}
+
+#frames h2 {
+
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  text-align:left;
+  background-color:lightcoral;
+}
+
+#paint h2 {
+
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  text-align:left;
+  background-color:skyblue;
+}
+
+.price {
+  font-weight:bold;
+  color:blue;
+}
